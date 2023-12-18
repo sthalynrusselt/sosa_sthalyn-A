@@ -15,7 +15,7 @@ html{
 /* Dark-light theme colors */
 
 .dark-mode--theme{
-    background:rgb(11, 14, 17);
+    background:rgb(43, 133, 136);
 }
 
 .dark-mode--theme .navigation{
@@ -23,7 +23,7 @@ html{
 }
 
 .dark-mode--theme .navigation__mega-menu{
-    background:#1E2329;
+    background:#68701a;
 }
 .dark-mode--theme .navigation__mega-menu--item:hover{
     background:#2B3139;
@@ -72,7 +72,7 @@ html{
 }
 
 .dark-mode--theme .daily-rewards__content--card:hover .daily-rewards__content--card__footer--trailing{
-    background:rgb(252, 213, 53);
+    background:rgb(148, 123, 22);
 }
 
 .dark-mode--theme .daily-rewards__content--card .daily-rewards__content--card__footer--trailing{
@@ -88,7 +88,7 @@ html{
 }
 
 .dark-mode--theme .trade__content--download__apps--app > div:hover{
-    background:#2B3139;
+    background:#095ece;
 }
 
 .dark-mode--theme .trade__content--download__apps--app > div svg{
